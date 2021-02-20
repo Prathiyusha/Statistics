@@ -1,2 +1,2 @@
 # Statistics
-Statistics Assignment - Mean, Median, Mode, Arithmetic mean, Harmonic mean, Geometric mean
+Statistics Assignment - Median, Mode, Harmonic mean, Geometric mean, Variance, Standard deviation and Coefficient of variation
